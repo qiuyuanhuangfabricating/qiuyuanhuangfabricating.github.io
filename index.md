@@ -9,40 +9,6 @@
 
 
 
+### 初衷
 
-
-You can use the [editor on GitHub](https://github.com/qiuyuanhuangfabricating/qiuyuanhuangfabricating.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/qiuyuanhuangfabricating/qiuyuanhuangfabricating.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+诚信是一个人的根基，在科学领域尤其如此。我们不希望看到在计算机科学领域出现如此严重违背诚信的现象。知乎上的帖子有可能随时被删除，此网站用于备份相关信息，直到黄秋原女士做出正式声明，我们也建议MS辞退相关违背诚信的人员。
