@@ -7,6 +7,7 @@
 
 [如何评价CVPR 2019最佳论文得主－微软研究员黄秋原小姐的成人教育本科学历？是否涉嫌学历造假？](https://www.zhihu.com/question/331746361)
 
+[如何评价cvpr 2019审稿第一的工作?](https://www.zhihu.com/question/314534955/answer/727585682)
 
 ## 重要信息
 
